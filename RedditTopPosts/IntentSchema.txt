@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "WhatsTheTopPostIntent",
+      "slots": [
+        {
+          "name": "sub",
+          "type": "LIST_OF_SUBS"
+        }
+      ]
+    }
+    ,
+    {
+      "intent": "AffirmativeResponseIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}
