@@ -1,0 +1,16 @@
+WhatsTheTopPostIntent what's the top post of {sub}
+WhatsTheTopPostIntent what is the top post of {sub}
+WhatsTheTopPostIntent what's the top post in {sub}
+WhatsTheTopPostIntent what is the top post in {sub}
+WhatsTheTopPostIntent top post in {sub}
+WhatsTheTopPostIntent top post for {sub}
+WhatsTheTopPostIntent for the top post in {sub}
+WhatsTheTopPostIntent what the top post is in {sub}
+
+
+AffirmativeResponseIntent yes
+AffirmativeResponseIntent ya
+AffirmativeResponseIntent yup
+AffirmativeResponseIntent affirmative
+AffirmativeResponseIntent ok
+AffirmativeResponseIntent yes please
